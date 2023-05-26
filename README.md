@@ -1,2 +1,2 @@
-# 3-partition-problem
-Solving 3-partition problem using simulated annealing and gurobi solver
+# 3-partition problem
+Solving 3-partition problem using gurobi solver and simulated annealing
